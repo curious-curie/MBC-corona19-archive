@@ -1,4 +1,4 @@
-실제 작업한 Repository는 private이며, 운영배포된 서비스 또한 확진환자 급증에 따라 운영리소스 이슈로 대부분의 spec을 fade out함에 따라 최초 스펙 아카이브용 Public repository를 만들었습니다.
+운영배포 후 약 80일간 서비스하여 일간 20만 정도의 PV를 기록했던 MBC Corona19 상황판은 2020년 4월 20일부로 서비스 종료되었음을 알려드립니다. 실제 작업한 Repository는 Private이며, 이 Repository는 운영했던 서비스를 아카이브하기 위한 용도의 Public repository입니다.
 
 # MBC 코로나19 상황판
 - 기획: MBC
