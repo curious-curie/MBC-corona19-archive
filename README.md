@@ -18,7 +18,6 @@
 - 사용 기술: Django(DRF), python, MySQL, javascript, jQuery, Kakao Map API 등
 
 ## 세계 요약 표 + 지도
-[바로가기 >](https://imnews.imbc.com/newszoomin/groupnews/groupnews_9/world.html)
 
 ### PC
 ![overview world pc](https://github.com/HyunSangHan/MBC-corona19-archive/blob/master/docs/capture_pc/overview_world.png)
@@ -27,7 +26,6 @@
 <img alt="overview world mobile" src="https://github.com/HyunSangHan/MBC-corona19-archive/blob/master/docs/capture_mobile/overview_world.PNG" width="375">
 
 ## 국내 요약 표
-[바로가기 >](https://imnews.imbc.com/newszoomin/groupnews/groupnews_9/index.html)
 
 ### PC
 ![overview korea pc](https://github.com/HyunSangHan/MBC-corona19-archive/blob/master/docs/capture_pc/overview_korea.jpeg)
@@ -36,7 +34,6 @@
 <img alt="overview korea mobile" src="https://github.com/HyunSangHan/MBC-corona19-archive/blob/master/docs/capture_mobile/overview_korea.PNG" width="375">
 
 ## 국내 확진자 이동경로
-[바로가기 >](https://imnews.imbc.com/newszoomin/groupnews/groupnews_9/route.html)
 
 ### PC
 ![route korea pc](https://github.com/HyunSangHan/MBC-corona19-archive/blob/master/docs/capture_pc/route.jpeg)
